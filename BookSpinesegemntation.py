@@ -3,7 +3,7 @@
 import cv2 
 import numpy as np
 import os
-from utli import rename
+from utli import rename,Extract_Text_From_Img
 for i in range(64):
     input_image = 'image'+str(i)
     if(os.path.exists('./bookspines/'+input_image) == False):
