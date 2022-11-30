@@ -1,4 +1,7 @@
 # oelp
+h3 {
+  color: green;
+}
 <p align="left">
   <img src="./Datasetbooks/image11.jpeg" height="300" width="300" title="book 11 in dataset">
    
@@ -8,8 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output(spines of book 11 in data set)</p>
 <h2>Background and Challenges:</h2>
 <h3 color: blue>
-
-	A System has already been made which comprises two parts, the hardware and the software. Hardware is basically a robot which has been developed to take the images of the books (from the side view) and the software part is to identify which book it is based on the images using programming tools like neural networks, Matlab, python or OpenCV. The challenge is to improve the system in such a way that it can be applied in sections with a very large dataset. Currently there is only one camera on the robot which makes it time consuming to take images of all the layers in the book shelf at once. 
+A System has already been made which comprises two parts, the hardware and the software. Hardware is basically a robot which has been developed to take the images of the books (from the side view) and the software part is to identify which book it is based on the images using programming tools like neural networks, Matlab, python or OpenCV. The challenge is to improve the system in such a way that it can be applied in sections with a very large dataset. Currently there is only one camera on the robot which makes it time consuming to take images of all the layers in the book shelf at once. 
 </h3>
 <h2>Deliverables:</h2>
 <h3 color: blue>
