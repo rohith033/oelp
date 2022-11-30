@@ -2,7 +2,7 @@
 <p align="left">
   <img src="./Datasetbooks/image11.jpeg" width="300" title="book 11 in dataset">
 
-  <img src="./internals/image11/spines.jpeg" width="300" title="spines of book 11 in data set">
+  <img src="./internal/image11/spines.jpeg" width="300" title="spines of book 11 in data set">
 </p>
 <p>book 11 in dataset &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spines of book 11 in data set</p>
 
