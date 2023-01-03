@@ -1,6 +1,6 @@
 # open ended lab project - Book Detection System 
 ![inputimage](https://github.com/rohith033/oelp/blob/master/bookspines/image11/book11.jpeg)
-![outputimage](/Datasetbooks/image11.jpeg)
+![outputimage](https://imgur.com/a/1WUsJDH)
 <p align="left">
   <img src="./Datasetbooks/image11.jpeg" height="300" width="300" title="book 11 in dataset">
    
