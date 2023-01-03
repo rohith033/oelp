@@ -1,11 +1,8 @@
-# open ended lab project - Book Detection System 
-![inputimage](https://github.com/rohith033/oelp/blob/master/bookspines/image11/book11.jpeg)
-![outputimage](https://imgur.com/a/1WUsJDH)
-<p align="left">
-  <img src="./Datasetbooks/image11.jpeg" height="300" width="300" title="book 11 in dataset">
-   
-  <img src="./Datasetbooks/image11.jpeg" height="300" width="300" align="right" title="spines of book 11 in data set">
-</p>
+## open ended lab project - Book Detection System 
+![image11](https://user-images.githubusercontent.com/81549690/210317514-9ef7b1ed-a12a-4e01-97ff-67b940733e9c.jpeg)
+
+![result](https://user-images.githubusercontent.com/81549690/210317417-b482bc44-0145-4425-b84a-e9b5e55ecc6f.jpeg)
+
 <p>input (book 11 in dataset)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output(spines of book 11 in data set)</p>
 <h2>Background and Challenges:</h2>
