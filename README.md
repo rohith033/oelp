@@ -1,6 +1,6 @@
 # open ended lab project - Book Detection System 
-![inputimage]("./Datasetbooks/image11.jpeg")
-![outputimage]("./Datasetbooks/image11.jpeg")
+![inputimage](/Datasetbooks/image11.jpeg)
+![outputimage](/Datasetbooks/image11.jpeg)
 <p align="left">
   <img src="./Datasetbooks/image11.jpeg" height="300" width="300" title="book 11 in dataset">
    
