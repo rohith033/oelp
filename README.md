@@ -1,5 +1,6 @@
-# oelp
-
+# open ended lab project - Book Detection System 
+![inputimage]("./Datasetbooks/image11.jpeg")
+![outputimage]("./internal/image11/spines.jpeg")
 <p align="left">
   <img src="./Datasetbooks/image11.jpeg" height="300" width="300" title="book 11 in dataset">
    
