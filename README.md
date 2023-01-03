@@ -1,7 +1,7 @@
 ## open ended lab project - Book Detection System 
 
 <div display="flex" align-content="space-between">
-	<img src='https://user-images.githubusercontent.com/81549690/210318073-04ad954a-d7f9-4e43-81e1-a66f007cf449.jpg' heigth="150" width="450" alt="input" >
+	<img src='https://user-images.githubusercontent.com/81549690/210318073-04ad954a-d7f9-4e43-81e1-a66f007cf449.jpg' heigth="150" width="400" alt="input" >
         <img src='https://user-images.githubusercontent.com/81549690/210317417-b482bc44-0145-4425-b84a-e9b5e55ecc6f.jpeg' heigth="250" width="340" alt="output">
 </div>
 <p>input (book 11 in dataset)
