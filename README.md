@@ -1,10 +1,10 @@
 # open ended lab project - Book Detection System 
 ![inputimage]("./Datasetbooks/image11.jpeg")
-![outputimage]("./internal/image11/spines.jpeg")
+![outputimage]("https://github.com/rohith033/oelp/blob/master/internal/image11/spines.jpeg")
 <p align="left">
   <img src="./Datasetbooks/image11.jpeg" height="300" width="300" title="book 11 in dataset">
    
-  <img src="./internal/image11/spines.jpeg" height="300" width="300" align="right" title="spines of book 11 in data set">
+  <img src="https://github.com/rohith033/oelp/blob/master/internal/image11/spines.jpeg" height="300" width="300" align="right" title="spines of book 11 in data set">
 </p>
 <p>input (book 11 in dataset)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output(spines of book 11 in data set)</p>
